@@ -1,4 +1,6 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+I'm currently a Software Engineer at Google, working on ML infrastructure.
+
+Avid surfer and swimmer.
 
