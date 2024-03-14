@@ -1,12 +1,10 @@
 title: Currents
 description: Everything I'm learning
 github_username: garrettwesley
-
-# Email and twitter are optional:
-email: 2gwesley@gmail.com
+twitter_username: garrettwes
 
 # Set this to true to get LaTeX math equation support
-use_math:
+use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
